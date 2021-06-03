@@ -1,0 +1,3 @@
+CardLink = "C:\\Users\\sn_2_g2_06\\Desktop\\ConvertisseurWAV\\teste_IHM02\\SimulateurCarte\\"
+StatLink = "C:\\Users\\sn_2_g2_06\\Desktop\\ConvertisseurWAV\\teste_IHM02\\SimulateurCarte\\Stat.txt"
+StatSaveLink = "C:\\Users\\sn_2_g2_06\\Desktop\\ConvertisseurWAV\\teste_IHM02\\SimulateurCarte\\"
